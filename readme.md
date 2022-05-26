@@ -1,4 +1,4 @@
-# Simple web deployment
+# Simple web EC2 deployment with Terraform 
 
 - Created an S3 bucket to serve as the remote backend for terraform state file
 - Created a vpc with two public and privte subnets
